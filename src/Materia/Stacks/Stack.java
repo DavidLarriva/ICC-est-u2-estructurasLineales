@@ -1,4 +1,4 @@
-package Materia.Models.Stacks;
+package Materia.Stacks;
 
 import java.util.EmptyStackException;
 
